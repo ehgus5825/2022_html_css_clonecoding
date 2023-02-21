@@ -12,3 +12,6 @@
 - [강의 4](https://www.youtube.com/watch?v=vwk2IC0JPgY)
 
 ## 학습 정리
+
+- [학습정리1](/study/2022-02-28-clone-01.md)
+- [학습정리2](/study/2022-02-28-clone-02.md)
